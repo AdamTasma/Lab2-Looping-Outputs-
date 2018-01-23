@@ -1,0 +1,7 @@
+C:\Users\adamt\source\repos\Lab2 (integer loops)\Lab2 (integer loops)\obj\Debug\Lab2 (integer loops).csprojResolveAssemblyReference.cache
+C:\Users\adamt\source\repos\Lab2 (integer loops)\Lab2 (integer loops)\obj\Debug\Lab2 (integer loops).csproj.CoreCompileInputs.cache
+C:\Users\adamt\source\repos\Lab2 (integer loops)\Lab2 (integer loops)\bin\Debug\Lab2 (integer loops).exe.config
+C:\Users\adamt\source\repos\Lab2 (integer loops)\Lab2 (integer loops)\bin\Debug\Lab2 (integer loops).exe
+C:\Users\adamt\source\repos\Lab2 (integer loops)\Lab2 (integer loops)\bin\Debug\Lab2 (integer loops).pdb
+C:\Users\adamt\source\repos\Lab2 (integer loops)\Lab2 (integer loops)\obj\Debug\Lab2 (integer loops).exe
+C:\Users\adamt\source\repos\Lab2 (integer loops)\Lab2 (integer loops)\obj\Debug\Lab2 (integer loops).pdb
